@@ -1,0 +1,16 @@
+/* src/App.css */
+.coming-soon-container {
+  text-align: center;
+  padding: 2rem;
+ }
+
+.coming-soon-container h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: #f70404;
+}
+
+.coming-soon-container p {
+  font-size: 1.25rem;
+  color: #f70404;
+}

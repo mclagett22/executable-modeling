@@ -1,0 +1,20 @@
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: #f4f5f7;
+  color: #333;
+  background-image: url('/AcceleratingGraphicalModel.jpg'); /* Note the leading slash */
+  background-size: contain; /* Optional: Adjust as needed */
+  background-repeat: no-repeat; /* Optional */
+  background-position: center top; /* Optional */  
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  align-items: top;
+  justify-content: center;
+} 
